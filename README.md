@@ -22,7 +22,7 @@ A comment must address something from the original post or be a follow-up to ano
 ### Be polite
 You don't have to like everyone, but you must be _polite_.  This means you must refrain from personal attacks, even against people not on the thread.
 
-## Be prepared to provide evidence
+### Be prepared to provide evidence
 You don't have to provide citations for everything you write, but you should be prepared to provide evidence when asked.
 
 ## Contributing
