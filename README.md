@@ -1,10 +1,10 @@
-# Constructive Dialog Rules
+# Constructive Dialogue Rules
 
 Version 1.0
 
 ## Summary
 
-The _constructive dialog rules_ mean that comments:
+The _constructive dialogue rules_ mean that comments:
 
 1. must be relevant to the original post or to the specific topic under discussion,
 2. must refrain from personal attacks, and
@@ -14,7 +14,7 @@ Comments that do not meet the rules are subject to deletion.
 
 ## Details
 
-Too many discussions of controversial topics--even mildly controversial topics--degenerate into yelling which is neither _constructive_ nor _persuasive_.  That is, you aren't contributing and you aren't going to change anyone's mind.  The _constructive dialog rules_ exist to provide the pretext to eliminate these "dead ends" in a conversation.  Disagreement is welcome; personal attacks, off-topic comments, and assertions without any support are not.
+Too many discussions of controversial topics--even mildly controversial topics--degenerate into yelling which is neither _constructive_ nor _persuasive_.  That is, you aren't contributing and you aren't going to change anyone's mind.  The _constructive dialogue rules_ exist to provide the pretext to eliminate these "dead ends" in a conversation.  Disagreement is welcome; personal attacks, off-topic comments, and assertions without any support are not.
 
 ### Be relevant
 A comment must address something from the original post or be a follow-up to another comment that satisfies the rules.  If the topic is _global warming_ and you are posting about _socialism_ you might be on topic... but probably aren't.  It is up to the commenter to make the connection sufficiently clear.
