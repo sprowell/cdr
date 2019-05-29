@@ -12,6 +12,14 @@ The _constructive dialogue rules_ mean that comments:
 
 Comments that do not meet the rules are subject to deletion.
 
+The super-short summary: relevance, evidence, civility.
+
+To apply this to a discussion, you might include the following text at the bottom of a post.
+
+    Constructive Dialogue Rules apply: relevance, evidence, civility.
+    
+You can include a link to here, like https://bit.ly/2W98J8W or https://github.com/sprowell/cdr, but since links are usually trapped and expanded on, say, Facebook, that may not be what you want and probably isn't necessary.
+
 ## Details
 
 Too many discussions of controversial topics--even mildly controversial topics--degenerate into yelling which is neither _constructive_ nor _persuasive_.  That is, you aren't contributing and you aren't going to change anyone's mind.  The _constructive dialogue rules_ exist to provide the pretext to eliminate these "dead ends" in a conversation.  Disagreement is welcome; personal attacks, off-topic comments, and assertions without any support are not.
