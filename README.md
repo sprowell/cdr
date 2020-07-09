@@ -1,17 +1,18 @@
 # Constructive Dialogue Rules
 
-Version 1.1
+Version 1.2
+
 
 ## Summary
 
 The _constructive dialogue rules_ mean that comments:
 
-1. Find common ground
+1. should, where possible, find common ground,
 2. must be relevant to the original post or to the specific topic under discussion,
-3. must refrain from personal attacks, and
-4. should supply evidence or sources for any assertions.
-5. admit when you are arguing from experience
-6. strong man an opinion you don't agree with
+3. must refrain from personal attacks,
+4. must supply evidence or sources for any assertions,
+5. should admit when you are arguing from experience, and
+6. should avoid straw man arguments.
 
 Comments that do not meet the rules are subject to deletion.
 
@@ -22,6 +23,7 @@ To apply this to a discussion, you might include the following text at the botto
     Constructive Dialogue Rules apply: relevance, evidence, civility.
     
 You can include a link to here, like https://bit.ly/2W98J8W or https://github.com/sprowell/cdr, but since links are usually trapped and expanded on, say, Facebook, that may not be what you want and probably isn't necessary.
+
 
 ## Details
 
@@ -40,10 +42,10 @@ You don't have to like everyone, but you must be _polite_.  This means you must 
 You don't have to provide citations for everything you write, but you should be prepared to provide evidence when asked.  Remember, not everyone agrees, but everyone who debates thinks their voice is worth something.  Because of this the burden of proof falls on every individual claim, even as simple as "that's not true".
 
 ### Admit when you are arguing from experience
-To some degree all views are based on experience.  It is important to recognize this, and more important to accept that it won't change anyone's mind without additional reasoning.  Similarly, recognize when someone else is doing this as well and try to recognize that this experience will unreasonably add reassurance that are right.
+To some degree all views are based on experience.  It is important to recognize this, and more important to accept that it won't change anyone's mind without additional reasoning.  Similarly, recognize when someone else is doing this as well and recognize that this experience will add reassurance that their view is right.
 
-### Strong man an opinion you don't agree with
-Too many people try to argue what they *want* to argue agianst instead of arguing against what has been presented.  Verify you are understanding the topic being discussed by reiterating in your own words what they believe as if it is valid and correct.  Once both parties accept the statement, then it can be discussed without misunderstanding.
+### Avoid straw man arguments
+Too many people try to argue what they *want* to argue agianst instead of arguing against what has been presented.  Verify that you understand what others are saying by reiterating it clearly as if it is valid and correct.  Once both parties accept the statement, then it can be discussed without misunderstanding.
 
 
 ## Contributing
